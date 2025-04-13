@@ -1,6 +1,3 @@
-CSE-5360-002
-NAME:			Sai Santoshi Praneetha Mukkamala
-UTA ID:			1002112894
 LANGUAGE USED:  	Python - 3.12.2
 EDITOR:			Miscrosoft Visual Studio
 EXAMPLE COMMANDS: 	python red_blue_nim.py 3 3 standard computer 
@@ -9,19 +6,18 @@ EXAMPLE COMMANDS: 	python red_blue_nim.py 3 3 standard computer
 			python red_blue_nim.py 8 7 misere human
 PREREQUISITES:		Python - 3.12.2 should be added to Environment Variables during the installation process.
 
-SUBMISSION FOLDER NAME: '1002112894_assmt2.zip'
 FILES IN FOLDER: 
 1. red_blue_nim.py - Python Source File
 2. readme.txt (which also includes Evaluation Function implementation description)
 
 *INSTRUCTIONS*
 To run the code, 
-1. Download the submission file '1002112894_assmt2.zip' from Canvas for Assignment 2.
+1. Download the submission file 'file_name.zip' from Canvas for Assignment 2.
 2. Unzip the folder. 
 3. Open the python file 'red_blue_nim' in Microsoft Visual Studio.
 4. Open View --> Terminal in Visual Studio
-5. Copy the path of the python file, where it is location. Example: "C:\Users\prane\OneDrive\Documents\AI\1002112894_assmt2"
-6. Enter: "cd C:\Users\prane\OneDrive\Documents\AI\1002112894_assmt2" in the terminal. It will go the path of the file.
+5. Copy the path of the python file, where it is location. Example: "C:\Users\prane\OneDrive\Documents\AI\fime_name"
+6. Enter: "cd C:\Users\prane\OneDrive\Documents\AI\file_name" in the terminal. It will go the path of the file.
 7. In the terminal, enter the commands to start the game play, example command line "python red_blue_nim.py <num-red> <num-blue> <version> <first-player>". Here red_blue_nim.py is the name of the python file, '6' - Number of red marbles, '4' - number of blue marbles, 'version' - standard/misere, 'first player' - computer/human. By entering these, game will start.
 
 *OBSERVATIONS*
